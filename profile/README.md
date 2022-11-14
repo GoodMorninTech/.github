@@ -1,7 +1,19 @@
 # Good Morning Tech
-Get a daily dose of tech news in your mailbox! Good Morning Tech is a daily newsletter that delivers the most important tech news of the day. It's a great way to stay up to date with the latest tech news without having to spend hours on the internet. It's 100% automated and it's free! You can even set your time zone so that you get the news at the right time.
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1026859431557877870/1038478990182195241/GMT..png">
+<br>
+<h3>We are an open-source tech newsletter, sign up and stay updated with the latest news in tech at your convenience! Oh did I mention, we are 100% free!</h3>
+<a href="https://example.com">Checkout our website</a> • <a href="https://example.com">Get in touch with us</a> • <a href="https://example.com">Report a bug</a>
+</div>
+<div align="center">
 
-## Work in progress
-This project is still a work in progress. It's not ready for production yet. If you want to help, feel free to make a pull request!
-## How does it work?
-It gets the important posts from the Verge tech news section and sends them to your email address.
+<br>
+
+![Project Details](https://img.shields.io/github/repo-size/goodmornintech/goodmorningtech?color=red&label=Project%20Size&style=for-the-badge)
+![License](https://img.shields.io/github/license/goodmornintech/goodmorningtech?color=red&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/goodmornintech/goodmorningtech?color=red&label=Project%20Stars&style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/goodmornintech/goodmorningtech?color=red&style=for-the-badge)
+</div>
+<div>
+  </div>
+<br>
